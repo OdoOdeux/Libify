@@ -1,2 +1,1 @@
-# Libify
-A book genre library for Blockchain
+Will be renewed
